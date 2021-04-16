@@ -3,11 +3,9 @@
 <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/AbhimanyuManav?style=social">  <img alt="YouTube Channel Views" 
 src="https://img.shields.io/youtube/channel/views/UCBLAJaZ2HzChzsrwP5k7JIg?style=social">
 
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am <enter your name>!
 
-![Twitter Follow](https://img.shields.io/twitter/follow/<your_twitter_username>?style=social)
 
-<your_bio>
+
 
 ---
 
