@@ -3,11 +3,9 @@
 <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/AbhimanyuManav?style=social">  <img alt="YouTube Channel Views" 
 src="https://img.shields.io/youtube/channel/views/UCBLAJaZ2HzChzsrwP5k7JIg?style=social">
 
-
-
-
-
 ---
+
+Hey I'm Abhimanyu MAnav ,  A web-developer who loves to create beautiful and responsive websites.
 
 
 <!--
