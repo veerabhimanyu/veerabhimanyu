@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on React Projects
 - 🌱 I’m currently learning Reactjs.
-- 📫 How to reach me: <a src="https://twitter.com/AbhimanyuManav">Twiiter</a>
+- 📫 How to reach me:<img alt="Twitter" src="https://twitter.com/AbhimanyuManav">
 - 😄 Pronouns: his/him.
 - ⚡ Fun fact: ...
 
