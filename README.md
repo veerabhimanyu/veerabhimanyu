@@ -6,7 +6,7 @@ src="https://img.shields.io/youtube/channel/views/UCBLAJaZ2HzChzsrwP5k7JIg?style
 
 ---
 
-Hey I'm Abhimanyu MAnav ,  A web-developer who loves to create beautiful and responsive websites.
+Hey I'm Abhimanyu. I'm Frontend Developer.
 ---
 
 
@@ -22,10 +22,9 @@ HTML CSS JavaScript Nodejs Express MongoDB
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on React Projects
 - 🌱 I’m currently learning Reactjs.
-- 🤔 I’m looking for help with ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 📫 How to reach me: <a src="https://twitter.com/AbhimanyuManav">Twiiter</a>
+- 😄 Pronouns: his/him.
 - ⚡ Fun fact: ...
 
